@@ -35,6 +35,9 @@ Summary of your role
 - Accomplishment
 - Accomplishment
 
+## Cleveland STEM High School
+*[High School][]
+
 
 [University 1]: https://www.washington.edu/
 [UW Geography]: https://geography.washington.edu/
