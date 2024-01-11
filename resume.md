@@ -30,7 +30,8 @@ Skills
 - Markdown
 - html
 
-## Seattle City Light Internship ![scl]("https://banner2.cleanpng.com/20180402/aie/kisspng-seattle-municipal-tower-seattle-city-light-snohomi-seattle-seahawks-5ac26a5a894c69.7147995215226906505624.jpg")
+## Seattle City Light Internship
+![scl](https://banner2.cleanpng.com/20180402/aie/kisspng-seattle-municipal-tower-seattle-city-light-snohomi-seattle-seahawks-5ac26a5a894c69.7147995215226906505624.jpg)
 *[SCL][] One year long internship working along side other geographers and engineers working to help the community.*
 
 ** GIS Analyst Intern ** (2023 - 2024)
