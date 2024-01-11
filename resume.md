@@ -10,35 +10,39 @@ I am a motivated and creative individual, currently pursuing a degree in geograp
 
 # Work Experience (only last 10 years)
 
+- GIS Analyst Intern **current**
+- Shift supervisor Starbucks
+- Team Lead AMC Theaters
+- AGE UP Intern
+
 ## Univeristy of Washington (Seattle, WA)
 
-* [University 1][] description, particularly if not well-known.*
+*[University 1][] Founded in 1861, one of the world's most prestigious universities. Each year, there are over 60,000 students enrolled.*
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+** Geography Data Science (Senior)** (2019 - 2024)
+
+Skills
+
+- Java/Javascript
+- Python
+- QGIS
+- ArcPro
+- Markdown
+- html
+
+## Seattle City Light Internship
+*[SCL][] One year long internship working along side other geographers and engineers working to help the community.*
+
+** GIS Analyst Intern ** (2023 - 2024)
 
 Summary of your role
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## UW Geography Major
-*[UW Geography][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## Cleveland STEM High School
-*[High School][]
-
+- Work with team in order to strength skills in ArcPro
+- One-on-one meetings with supervisors, managers, and directors within my team and outside of my team to strengthen professional conversations
+- Create maps in ArcPro
+- Complete facility requests for handholes, poles, vaults, and transformers
+- Research application usages for applications owned by SCL
 
 [University 1]: https://www.washington.edu/
-[UW Geography]: https://geography.washington.edu/
-[High School]: https://clevelandhs.seattleschools.org/
+[SCL]: https://www.seattle.gov/city-light
+
