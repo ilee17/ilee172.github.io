@@ -17,7 +17,7 @@ I am a motivated and creative individual, currently pursuing a degree in geograp
 
 ## Univeristy of Washington (Seattle, WA)
 
-*[University 1][] Founded in 1861, one of the world's most prestigious universities. Each year, there are over 60,000 students enrolled.*
+*[UW][] Founded in 1861, one of the world's most prestigious universities. Each year, there are over 60,000 students enrolled.*
 
 ** Geography Data Science (Senior)** (2019 - 2024)
 
@@ -43,6 +43,6 @@ Summary of your role
 - Complete facility requests for handholes, poles, vaults, and transformers
 - Research application usages for applications owned by SCL
 
-[University 1]: https://www.washington.edu/
+[UW]: https://www.washington.edu/
 [SCL]: https://www.seattle.gov/city-light
 
