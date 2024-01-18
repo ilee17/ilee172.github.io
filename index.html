@@ -14,7 +14,7 @@
     <body>
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-bottom">
-            <div class="container px-4 px-lg-5">
+            <div class="container">
                 <a class="navbar-brand" href="#!">Start Bootstrap</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
@@ -29,13 +29,40 @@
         </nav>
         <!-- Page Content-->
         <section>
-            <div class="container px-4 px-lg-5">
-                <div class="row gx-4 gx-lg-5">
-                    <div class="col-lg-6">
-                        <h1 class="mt-5">The Big Picture</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt voluptates rerum eveniet sapiente repellat esse, doloremque quod recusandae deleniti nostrum assumenda vel beatae sed aut modi nesciunt porro quisquam voluptatem.</p>
-                    </div>
+            <div class="container">
+                <div class="mySlides">
+                    <div class="numbertext"> 1 / 4 </div>
+                        <img src="img/hiding-cat.jpeg" width:100%>
                 </div>
+                <div class="mySlides">
+                    <div class="'numbertext"> 2 / 4</div>
+                    <img src="img/sleeping-cat.jpeg" width:100%>
+                </div>
+                <div class="mySlides">
+                    <div class="numbertext"> 3 / 4</div>
+                    <img src="img/flying-cat.jpeg" width 100%>
+                </div>
+                <div class="mySlides">
+                    <div class="numbertext"> 4 / 4</div>
+                    <img src="img/smiling-cat.webp" width 100%>
+                </div>
+                <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+                <div class="row">
+                    <div class="column">
+                      <img class="demo cursor" src="img/hiding-cat.jpeg" style="width:100%" onclick="currentSlide(1)" alt="Hiding Cat">
+                    </div>
+                    <div class="column">
+                      <img class="demo cursor" src="img/sleeping-cat.jpeg" style="width:100%" onclick="currentSlide(2)" alt="sleeping cat">
+                    </div>
+                    <div class="column">
+                      <img class="demo cursor" src="img/flying-cat.jpeg" style="width:100%" onclick="currentSlide(3)" alt="flying cat">
+                    </div>
+                    <div class="column">
+                      <img class="demo cursor" src="img/smiling-cat.webp" style="width:100%" onclick="currentSlide(4)" alt="smiling cat">
+                    </div>
+                  </div>
             </div>
         </section>
         <!-- Bootstrap core JS-->
