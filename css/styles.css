@@ -108,10 +108,10 @@ body, html {
 }
 
 /* Images used */
-.img1 { background-image: url("/img/sleeping-cat.jpeg"); }
-.img2 { background-image: url("/img/flying-cat.jpeg"); }
-.img3 { background-image: url("/img/hiding-cat.jpeg"); }
-.img4 { background-image: url("/img/smiling-cat.jpeg"); }
+.img1 { background-image: url("https://media.istockphoto.com/id/1487283582/photo/silver-tabby-cat-peeks-out-from-behind-a-white-wall.jpg?b=1&s=612x612&w=0&k=20&c=hzq9YmAPuy_GC__jeg-TZDT9ImKEgQm4IvXOTs4rjdk="); }
+.img2 { background-image: url("https://www.shutterstock.com/shutterstock/photos/2315020963/display_1500/stock-photo-funny-cat-flying-photo-of-a-playful-tabby-cat-jumping-mid-air-looking-at-camera-background-with-2315020963.jpg"); }
+.img3 { background-image: url("https://wallpapers.com/images/featured/cat-g9rdx9uk2425fip2.jpg"); }
+.img4 { background-image: url("https://www.wfla.com/wp-content/uploads/sites/71/2023/05/GettyImages-1389862392.jpg?w=2560&h=1440&crop=1"); }
 
 /* Position text in the middle of the page/image */
 .bg-text {
