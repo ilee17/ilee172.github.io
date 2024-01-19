@@ -19,7 +19,7 @@ I am a motivated and creative individual, currently pursuing a degree in geograp
 
 *[UW][] Founded in 1861, one of the world's most prestigious universities. Each year, there are over 60,000 students enrolled.*
 
-** Geography Data Science (Senior)** (2019 - 2024)
+**Geography Data Science (Senior)** (2019 - 2024)
 
 Skills
 
@@ -34,7 +34,7 @@ Skills
 ![scl](https://banner2.cleanpng.com/20180402/aie/kisspng-seattle-municipal-tower-seattle-city-light-snohomi-seattle-seahawks-5ac26a5a894c69.7147995215226906505624.jpg)
 *[SCL][] One year long internship working along side other geographers and engineers working to help the community.*
 
-** GIS Analyst Intern ** (2023 - 2024)
+**GIS Analyst Intern** (2023 - 2024)
 
 Summary of your role
 
